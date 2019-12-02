@@ -9,4 +9,4 @@ Early computations were done using SageMath (Jupyter notebooks).
 
 To run these programs, you can install Sagemath on your computer (see http://www.sagemath.org/ for download) or simply use it online via https://cocalc.com/
 
-Licence: MIT (see `LICENCE` file)
+Licence: MIT (see `LICENSE` file)
